@@ -26,7 +26,7 @@ Drag Sombe-Qt to your applications folder, and then run Sombe-Qt.
 
 ### Need Help?
 
-* See the documentation at the [Sombe Wiki](https://github.com/Sombe-Project/Sombe/wiki)
+* See the documentation at the [Sombe Wiki](https://github.com/sombeProject/SBE/wiki)
 for help and more information.
 * Ask for help on [BitcoinTalk](https://#) or on the [Sombe Forum](http://Sombe.org).
 * Join our Discord server [Discord Server](https://#)
