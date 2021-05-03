@@ -387,3 +387,5 @@ bool IsValidDestinationString(const std::string& str, bool isStaking)
     CBitcoinAddress address(str);
     return address.IsValid() && (address.IsStakingAddress() == isStaking);
 }
+
+//hELLO
